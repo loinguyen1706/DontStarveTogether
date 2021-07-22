@@ -1,0 +1,9 @@
+[00:00:47]: [Join Announcement] Liu
+[00:01:13]: [Join Announcement] Lờ
+[00:02:12]: [Join Announcement] Minh
+[00:21:45]: [Death Announcement] Minh was killed by Shadow Bishop. He became a spooky ghost!
+[00:21:54]: [Vote Announcement] rollback passed
+[00:22:53]: [Vote Announcement] rollback passed
+[01:36:50]: [Leave Announcement] Lờ
+[02:08:47]: [Leave Announcement] Minh
+[02:09:46]: [Leave Announcement] Liu

@@ -1,0 +1,14 @@
+[00:00:41]: [Join Announcement] Lờ
+[00:02:31]: [Join Announcement] Liu
+[00:03:00]: [Join Announcement] Minh
+[00:03:31]: [Leave Announcement] Liu
+[00:03:47]: [Death Announcement] Minh was killed by Red Hound. He became a spooky ghost!
+[00:03:58]: [Leave Announcement] Minh
+[00:04:53]: [Vote Announcement] rollback passed
+[00:05:42]: [Join Announcement] Minh
+[00:07:59]: [Join Announcement] Liu
+[00:08:24]: [Leave Announcement] Minh
+[00:09:33]: [Join Announcement] Minh
+[00:10:58]: [Leave Announcement] Liu
+[00:10:58]: [Leave Announcement] Minh
+[00:11:05]: [Leave Announcement] Lờ

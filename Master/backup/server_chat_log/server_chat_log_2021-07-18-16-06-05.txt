@@ -1,0 +1,12 @@
+[00:01:05]: [Join Announcement] Liu
+[00:01:53]: [Join Announcement] Lờ
+[00:02:49]: [Join Announcement] Minh
+[00:03:14]: [Leave Announcement] Lờ
+[00:03:43]: [Join Announcement] Lờ
+[00:04:46]: [Leave Announcement] Lờ
+[00:06:23]: [Join Announcement] Lờ
+[00:07:46]: [Leave Announcement] Lờ
+[00:09:35]: [Join Announcement] Lờ
+[00:52:40]: [Skin Announcement] Lờ legs_wickerbottom_spiderwitch
+[01:08:29]: [Leave Announcement] Minh
+[01:09:00]: [Leave Announcement] Liu

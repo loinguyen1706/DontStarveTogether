@@ -1,0 +1,7 @@
+[00:00:38]: [Join Announcement] Lờ
+[00:01:20]: [Join Announcement] Liu
+[00:02:03]: [Join Announcement] Minh
+[00:02:25]: [Roll Announcement] (KU_MAFS6CUz) Lờ 27 (1-100)
+[00:09:54]: [Leave Announcement] Lờ
+[00:09:54]: [Leave Announcement] Minh
+[00:09:54]: [Leave Announcement] Liu

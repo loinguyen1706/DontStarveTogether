@@ -1,0 +1,10 @@
+[00:00:49]: [Join Announcement] Liu
+[00:01:30]: [Join Announcement] Lờ
+[00:02:00]: [Join Announcement] Minh
+[01:17:04]: [Leave Announcement] Lờ
+[01:19:14]: [Join Announcement] Lờ
+[02:29:39]: [Death Announcement] Lờ was killed by Pengull. He became a spooky ghost!
+[02:29:44]: [Resurrect Announcement] Lờ was resurrected by Endothermic Fire Pit.
+[02:35:40]: [Leave Announcement] Minh
+[02:37:08]: [Leave Announcement] Lờ
+[02:37:26]: [Leave Announcement] Liu

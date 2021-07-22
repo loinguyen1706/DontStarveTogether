@@ -1,0 +1,6 @@
+[00:02:10]: [Join Announcement] Liu
+[00:02:34]: [Join Announcement] Minh
+[00:03:16]: [Join Announcement] Lờ
+[00:06:46]: [Leave Announcement] Lờ
+[00:09:23]: [Leave Announcement] Liu
+[00:09:42]: [Leave Announcement] Minh

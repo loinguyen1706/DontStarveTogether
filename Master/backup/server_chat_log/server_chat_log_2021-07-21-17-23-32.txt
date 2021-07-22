@@ -1,0 +1,7 @@
+[00:00:40]: [Join Announcement] Lờ
+[00:02:21]: [Join Announcement] Liu
+[00:06:34]: [Join Announcement] Minh
+[01:07:37]: [Say] (KU_MAFS50c7) Minh: 󰀁
+[02:18:30]: [Leave Announcement] Minh
+[02:21:22]: [Leave Announcement] Lờ
+[02:21:23]: [Leave Announcement] Liu

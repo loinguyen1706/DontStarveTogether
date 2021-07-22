@@ -1,0 +1,19 @@
+[00:00:38]: [Join Announcement] Lờ
+[00:01:27]: [Join Announcement] Liu
+[00:04:20]: [Join Announcement] Minh
+[00:12:59]: [Say] (KU_MAFS50c7) Minh: 󰀁
+[00:19:33]: [Mod Warning] Global Positions is out of date and needs to be updated for new users to be able to join the server.
+[00:19:33]: [Mod Warning] Campfire Respawn is out of date and needs to be updated for new users to be able to join the server.
+[00:19:33]: [Mod Warning]  Simple Health Bar DST is out of date and needs to be updated for new users to be able to join the server.
+[00:19:33]: [Mod Warning] Show Me (Origin) is out of date and needs to be updated for new users to be able to join the server.
+[00:19:33]: [Mod Warning] Beefalo Status Bar is out of date and needs to be updated for new users to be able to join the server.
+[00:19:33]: [Mod Warning] Extra Equip Slots is out of date and needs to be updated for new users to be able to join the server.
+[00:19:33]: [Mod Warning] Wormhole Marks is out of date and needs to be updated for new users to be able to join the server.
+[01:28:06]: [Say] (KU_MAFS6CUz) Lờ: beefalo
+[01:33:07]: [Leave Announcement] Minh
+[01:34:04]: [Join Announcement] Minh
+[01:50:56]: [Leave Announcement] Minh
+[01:51:01]: [Death Announcement] Liu was killed by Batilisk. He became a spooky ghost!
+[01:51:38]: [Resurrect Announcement] Liu was resurrected by Endothermic Fire Pit.
+[02:05:29]: [Leave Announcement] Liu
+[02:05:33]: [Leave Announcement] Lờ

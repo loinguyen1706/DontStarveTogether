@@ -1,0 +1,50 @@
+[00:01:04]: [Join Announcement] Liu
+[00:01:49]: [Join Announcement] Minh
+[00:37:02]: [Death Announcement] Minh was killed by Freezing. He became a spooky ghost!
+[00:37:05]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:39:14]: [Death Announcement] Minh was killed by Freezing. He became a spooky ghost!
+[00:39:17]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:40:12]: [Death Announcement] Minh was killed by Overheating. He became a spooky ghost!
+[00:40:16]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:41:43]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:41:53]: [Death Announcement] Minh was killed by Overheating. He became a spooky ghost!
+[00:41:58]: [Vote Announcement] rollback passed
+[00:42:48]: [Death Announcement] Minh was killed by Freezing. He became a spooky ghost!
+[00:42:51]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:44:20]: [Death Announcement] Minh was killed by Freezing. He became a spooky ghost!
+[00:44:25]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:45:10]: [Death Announcement] Liu was killed by No-Eyed Deer. She became a spooky ghost!
+[00:45:13]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:45:56]: [Death Announcement] Liu was killed by No-Eyed Deer. She became a spooky ghost!
+[00:45:57]: [Death Announcement] Minh was killed by Overheating. He became a spooky ghost!
+[00:45:58]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:46:04]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:47:02]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:47:22]: [Death Announcement] Minh was killed by Overheating. He became a spooky ghost!
+[00:47:22]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:47:23]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:47:52]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:47:57]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:48:09]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:48:15]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:48:41]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:48:46]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:48:48]: [Death Announcement] Minh was killed by Klaus. He became a spooky ghost!
+[00:48:50]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:50:22]: [Death Announcement] Minh was killed by Freezing. He became a spooky ghost!
+[00:50:28]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:50:47]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:51:06]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:51:16]: [Death Announcement] Minh was killed by Fire. He became a spooky ghost!
+[00:51:28]: [Resurrect Announcement] Minh was resurrected by Fire Pit.
+[00:51:57]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:52:03]: [Resurrect Announcement] Liu was resurrected by Fire Pit.
+[00:52:14]: [Death Announcement] Minh was killed by Klaus. He became a spooky ghost!
+[00:52:28]: [Vote Announcement] rollback passed
+[00:52:32]: [Death Announcement] Liu was killed by Klaus. She became a spooky ghost!
+[00:53:12]: [Vote Announcement] rollback passed
+[00:53:53]: [Death Announcement] Minh was killed by Klaus. He became a spooky ghost!
+[00:53:56]: [Vote Announcement] rollback passed
+[00:54:44]: [Vote Announcement] rollback passed
+[00:56:37]: [Leave Announcement] Liu
+[00:56:37]: [Leave Announcement] Minh
