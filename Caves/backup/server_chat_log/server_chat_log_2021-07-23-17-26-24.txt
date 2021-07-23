@@ -1,0 +1,5 @@
+[00:00:41]: [Join Announcement] Lờ
+[00:02:30]: [Join Announcement] Liu
+[00:37:54]: [Skin Announcement] Lờ legs_shorts_red_firehound
+[00:55:17]: [Leave Announcement] Liu
+[01:00:05]: [Leave Announcement] Lờ

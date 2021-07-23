@@ -1,9 +1,0 @@
-[00:00:51]: [Join Announcement] Liu
-[00:01:31]: [Join Announcement] Lờ
-[00:03:20]: [Join Announcement] Minh
-[00:59:05]: [Skin Announcement] Lờ legs_skirt_pleated_teal_jungle
-[00:59:30]: [Skin Announcement] Minh legs_pants_basic_tan_cream
-[01:10:33]: [Leave Announcement] Lờ
-[01:11:11]: [Join Announcement] Lờ
-[01:25:04]: [Leave Announcement] Minh
-[01:26:55]: [Leave Announcement] Liu

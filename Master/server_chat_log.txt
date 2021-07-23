@@ -1,4 +1,7 @@
-[00:00:42]: [Join Announcement] Lờ
-[00:01:08]: [Join Announcement] nguyentheduc2366
-[00:01:43]: [Leave Announcement] Lờ
-[00:01:43]: [Leave Announcement] nguyentheduc2366
+[00:01:08]: [Join Announcement] Lờ
+[00:03:10]: [Join Announcement] Liu
+[00:09:29]: [Skin Announcement] Liu hand_shortgloves_white_smoke
+[00:55:33]: [Skin Announcement] Lờ feet_wolfgang_ice
+[01:03:29]: [Skin Announcement] Liu body_glommer_costumep
+[01:12:27]: [Leave Announcement] Liu
+[01:12:27]: [Leave Announcement] Lờ
