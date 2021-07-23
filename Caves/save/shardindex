@@ -103,7 +103,7 @@ KLEI     1 return {
     name="Chan bo nuoi heo xay nha",
     online_mode=true,
     password="333666",
-    privacy_type=1,
+    privacy_type=0,
     pvp=false,
     server_language="en" 
   },
