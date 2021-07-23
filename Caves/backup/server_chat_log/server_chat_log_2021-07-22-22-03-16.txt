@@ -1,0 +1,4 @@
+[00:00:42]: [Join Announcement] Lờ
+[00:02:55]: [Join Announcement] Liu
+[00:21:09]: [Say] (KU_MAFS51bm) Liu: hexagon
+[01:27:18]: [Vote Announcement] rollback passed

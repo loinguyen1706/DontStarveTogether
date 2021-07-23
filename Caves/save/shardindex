@@ -99,11 +99,11 @@ KLEI     1 return {
     encode_user_path=true,
     game_mode="survival",
     intention="cooperative",
-    max_players=6,
+    max_players=3,
     name="Chan bo nuoi heo xay nha",
     online_mode=true,
     password="333666",
-    privacy_type=0,
+    privacy_type=1,
     pvp=false,
     server_language="en" 
   },
