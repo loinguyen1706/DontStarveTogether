@@ -1,0 +1,6 @@
+[00:02:06]: [Join Announcement] Liu
+[00:03:51]: [Join Announcement] Lờ
+[00:54:11]: [Vote Announcement] rollback passed
+[00:54:16]: [Death Announcement] Liu was killed by Red Hound. He became a spooky ghost!
+[00:55:16]: [Leave Announcement] Liu
+[00:55:16]: [Leave Announcement] Lờ

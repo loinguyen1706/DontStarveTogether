@@ -879,3 +879,29 @@ Process Memory:
 [00:00:50]: Validating portal[4] <-> 12977805[4] (active)	
 [00:00:50]: Validating portal[10] <-> 12977805[10] (disabled)	
 [00:01:00]: Registering master server in Sing lobby
+[00:14:14]: New incoming connection 100.91.39.242|53008 <6625698401785278711>
+[00:14:14]: Client connected from 100.91.39.242|53008 <6625698401785278711>
+[00:14:14]: ValidateGameSessionToken pgs-usc^KU_MAFS51bm^DontStarveTogether^6auwvi5HNN1hTeDXnwFJyzsTx6eM59sVV9qMrZzD0ZE= for <6625698401785278711>
+[00:14:15]: Client authenticated: (KU_MAFS51bm) Liu
+[00:14:15]: [Steam] SendUserConnectAndAuthenticate for '76561199175362590'
+[00:14:16]: [Steam] Authenticated client '76561199175362590'
+[00:14:17]: There is no active event to validate against.
+[00:14:17]: [Shard] Read save location file for (KU_MAFS51bm)
+[00:14:17]: Registering master server in Sing lobby
+[00:14:48]: New incoming connection 125.235.234.180|3661 <4286387017697941233>
+[00:14:48]: Client connected from 125.235.234.180|3661 <4286387017697941233>
+[00:14:48]: ValidateGameSessionToken pgs-usc^KU_MAFS6CUz^DontStarveTogether^M/7IxBL+DJEhq3Aa/PEVMKXzVitoLvCXqtAEt5T7IPI= for <4286387017697941233>
+[00:14:49]: Client authenticated: (KU_MAFS6CUz) Lờ
+[00:14:49]: [Steam] SendUserConnectAndAuthenticate for '76561198446588630'
+[00:14:49]: [Steam] Authenticated client '76561198446588630'
+[00:14:49]: Resuming user: session/3B7479E7BD2324F1/A7IOKFE186BG/0000001746
+[00:14:49]: Spawning player at: [Load] (-36.58, -0.00, -412.39)	
+[00:14:49]: Sim unpaused
+[00:14:50]: There is no active event to validate against.
+[00:14:50]: [Shard] Read save location file for (KU_MAFS6CUz)
+[00:14:52]: Registering master server in Sing lobby
+[00:14:52]: A timer with the name 	salt	 already exists on 	134421 - beefalo	!	
+[00:14:53]: A timer with the name 	salt	 already exists on 	134415 - beefalo	!	
+[00:15:00]: Resuming user: session/3B7479E7BD2324F1/A7IOKFE1HHTT/0000001746
+[00:15:00]: Spawning player at: [Load] (-10.06, 0.00, -362.68)	
+[00:15:02]: Registering master server in Sing lobby
